@@ -6,6 +6,7 @@ include theos/makefiles/common.mk
 
 TWEAK_NAME = Integrate
 Integrate_FILES = Tweak.xm
+Integrate_FRAMEWORKS = UIKit
 
 include $(THEOS_MAKE_PATH)/tweak.mk
 
