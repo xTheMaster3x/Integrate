@@ -1,7 +1,7 @@
 Package: com.xtm3x.integrate
 Name: Integrate
 Depends: mobilesubstrate
-Version: 0.0.1
+Version: 0.0.2
 Architecture: iphoneos-arm
 Description: Remove table view separators.
 Maintainer: xTheMaster3x
